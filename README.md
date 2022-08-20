@@ -6,7 +6,7 @@ Developers are often tasked with creating interfaces that make it easy for non-d
 
 ## Demo 
 
-![Demo](./Assets/12-sql-homework-video-thumbnail.png) Provided by bootcamp*
+![Demo](./12-sql-homework-video-thumbnail.png) Provided by bootcamp*
 
 ## Description
 * Functional application.
